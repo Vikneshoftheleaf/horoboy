@@ -3,6 +3,11 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
+    <loc>https://horoboy.vercel.app/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://horoboy.vercel.app/blog/daily-horoscope-based-on-natal-chart.html</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
